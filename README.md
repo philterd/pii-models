@@ -20,6 +20,6 @@ Please request credentials to download these models using this [form](https://do
 
 ## License
 
-Please refer to the licnese associated with each model in the table above.
+Please refer to the license(s) associated with each model in the table above.
 
 Copyright 2024 Philterd, LLC.
