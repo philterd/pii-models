@@ -8,12 +8,14 @@ These models were created with the intention they could apply to a wide variety 
 
 ## Available Models
 
-| Model Name | Model Description | Version | Type(s) of PII/PHI | Usage | Download |
+| Model Name | Model Description | Version | Type(s) of PII/PHI | License | Download |
 |------------|-------------------|---------|--------------------|-------|----------|
-| general lite           |  This model was trained on many types of text to be applicable to the most use-cases.                |   3.0      |   Person's names                  |       | [Download](https://files.philterd.ai/models/general-lite-3.0-with-base-model.zip)         |
-|            |                   |         |                    |       |          |
-|            |                   |         |                    |       |          |
+| `general` | This model was trained on many types of text to be applicable to the most use-cases. | 3.0 | Person's names | Apache License, version 2 | [Download](https://files.philterd.ai/models/general-3.0-with-base-model.zip) |
+| `general-lite` | This model is similar to `general-lite` but with a smaller footprint. It was created to give good accuracy with a smaller size. | 3.0 | Person's names | Apache License, version 2 | [Download](https://files.philterd.ai/models/general-lite-3.0-with-base-model.zip) |
+|            |                   |         |                    |           |
 
 ## License
 
-These models are available under the Apache License, version 2.0, unless otherwise noted.
+Please refer to the licnese associated with each model in the table above.
+
+Copyright 2024 Philterd, LLC.
