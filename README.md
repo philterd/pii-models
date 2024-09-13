@@ -8,11 +8,11 @@ These models were created with the intention they could apply to a wide variety 
 
 ## Available Models
 
-| Model Name | Model Description | Version | Supported Type(s) of PII/PHI |
-|------------|-------------------|---------|------------------------------|
-|            |                   |         |                              |
-|            |                   |         |                              |
-|            |                   |         |                              |
+| Model Name | Model Description | Version | Type(s) of PII/PHI | Usage | Download |
+|------------|-------------------|---------|--------------------|-------|----------|
+| general lite           |  This model was trained on many types of text to be applicable to the most use-cases.                |   3.0      |   Person's names                  |       | [Download](https://files.philterd.ai/models/general-lite-3.0-with-base-model.zip)         |
+|            |                   |         |                    |       |          |
+|            |                   |         |                    |       |          |
 
 ## License
 
