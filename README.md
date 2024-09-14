@@ -12,10 +12,10 @@ Please request credentials to download these models using this [form](https://do
 
 ## Available Models
 
-| Model Name | Model Description | Version | Type(s) of PII/PHI | License | Download |
-|------------|-------------------|---------|--------------------|-------|----------|
-| `general` | This model was trained on many types of text to be applicable to the most use-cases. | 3.0 | Person's names | Apache License, version 2 | [Download](https://files.philterd.ai/models/general-3.0-with-base-model.zip) |
-| `general-lite` | This model is similar to `general-lite` but with a smaller footprint. It was created to give good accuracy with a smaller size. | 3.0 | Person's names | Apache License, version 2 | [Download](https://files.philterd.ai/models/general-lite-3.0-with-base-model.zip) |
+| Model Name | Model Description | Filter Type | Model Version | License | Download |
+|------------|-------------------|------|---|-------------|----------|
+| `general` | This model was trained on many types of text to be applicable to the most use-cases. | [Persons' Names (NER)](https://github.com/philterd/phileas/blob/main/docs/FilterPolicies/Filters/PersonsNames/Filters-PersonsNamesNER.md) | 3.0 | Apache License, version 2 | [Download](https://files.philterd.ai/models/general-3.0-with-base-model.zip) |
+| `general-lite` | This model is similar to `general-lite` but with a smaller footprint. It was created to give good accuracy with a smaller size. | [Persons' Names (NER)](https://github.com/philterd/phileas/blob/main/docs/FilterPolicies/Filters/PersonsNames/Filters-PersonsNamesNER.md) | 3.0 Apache License, version 2 | [Download](https://files.philterd.ai/models/general-lite-3.0-with-base-model.zip) |
 |            |                   |         |                    |           |
 
 ## License
