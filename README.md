@@ -6,10 +6,6 @@ The models described and contained in this repository are for use with [Phileas]
 
 These models were created with the intention they could apply to a wide variety of use-cases for a general audience. If your use-case is very specific you may benefit from models trained directly on your data. Please contact us if this is the case.
 
-## Downloading Models
-
-Please request credentials to download these models using this [form](https://docs.google.com/forms/d/e/1FAIpQLSf5ZN88QNLu2wnNJfcpKgAAwP-Qhk07finjFfVK9WPb_1r2SA/viewform).
-
 ## Available Models
 
 | Model Name | Model Description | Filter Type | Model Version | License | Download |
